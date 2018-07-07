@@ -1,0 +1,27 @@
+.header_text {
+font-size: 48px;
+color: white;
+background-color: black;
+border-radius: 48px;
+text-align: center;
+}
+
+.yeah {
+font-size:100px;
+color:#FE2E2E;
+display:none;
+text-align: center;
+}
+
+.main_contents {
+	margin-top:20px;
+}
+
+.container {
+	height: 150px;
+	width:350px;
+	background-color:#819FF7;
+	border-radius: 900px;
+	margin:200px auto;
+	margin-top: 180px;
+}
